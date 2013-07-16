@@ -4,9 +4,9 @@ wxWidgets 2.8.12
 libCURL 7.21.3
 
 Linux:
-Opencv 2.3.1 up
-wxWidgets 2.8.12
-libCURL 7.21.3
+Opencv
+wxGTK
+libCURL
 
 g++ -o2 -o wxRovio './AddUserDialog.cpp' './App.cpp' './DeleteUserDialog.cpp' 
 './LoggingDialog.cpp' './SetCameraDialog.cpp' 
