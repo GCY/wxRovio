@@ -1,6 +1,7 @@
 wxRovio
 =======
-1.Cross Platform - Linux And Windows</br>
+1.Cross Platform - Linux And Windows
+
 2.Video - http://www.youtube.com/watch?feature=player_embedded&v=EUUJY8NPWs8
 
 Licensing
