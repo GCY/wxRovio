@@ -1,5 +1,12 @@
 wxRovio
 =======
+1.Cross Platform - Linux And Windows
+2.Video
+
+https://dl.dropbox.com/u/16634624/wxRovio/1.png
+https://dl.dropbox.com/u/16634624/wxRovio/3.png
+
+http://www.youtube.com/watch?feature=player_embedded&v=EUUJY8NPWs8
 
 Licensing
 =======
