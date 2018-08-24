@@ -4,6 +4,8 @@ wxRovio
 
 2.Video - http://www.youtube.com/watch?feature=player_embedded&v=EUUJY8NPWs8
 
+[![Audi R8](http://img.youtube.com/vi/EUUJY8NPWs8/0.jpg)](https://youtu.be/EUUJY8NPWs8)
+
 Licensing
 =======
 wxRovio - WOWWEE ROVIO PC Control Application
