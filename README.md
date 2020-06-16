@@ -1,8 +1,24 @@
 wxRovio
 =======
-1.Cross Platform - Linux And Windows
 
-2.Video - http://www.youtube.com/watch?feature=player_embedded&v=EUUJY8NPWs8
+Rovio is a Wi-Fi enabled robot manufactured by WowWee which lets its user view what the robot's webcam sees from anywhere in the world. It can be accessed and controlled via an internet connection from any PC, Mac, Cell Phone, Smartphone, PDA or PSP.
+
+The Rovio uses a Killough platform for omnidirectional motion.
+
+![WowWee Rovio](https://github.com/GCY/wxRovio/blob/master/res/WowWee%20Rovio.jpg)
+
+![wxRovio Remote Control Demo](https://github.com/GCY/wxRovio/blob/master/res/wxRovio%20Remote%20Control%20Demo.gif);
+
+## wxRovio
+This is  cross platform GUI for WowWee Rovio control, Linux(Ubuntu) and Windows7.
+
+![win7](https://github.com/GCY/wxRovio/blob/master/res/wxRovio%20GUI%20windows7.png)
+
+![ubuntu](https://github.com/GCY/wxRovio/blob/master/res/wxRovio%20GUI%20Ubuntu.png)
+
+![camera setting](https://github.com/GCY/wxRovio/blob/master/res/Rovio%20Camera%20Setting.png)
+
+### Remote control RTSP video demo 
 
 [![Audi R8](http://img.youtube.com/vi/EUUJY8NPWs8/0.jpg)](https://youtu.be/EUUJY8NPWs8)
 
