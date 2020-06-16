@@ -9,6 +9,10 @@ The Rovio uses a Killough platform for omnidirectional motion.
 
 ![wxRovio Remote Control Demo](https://github.com/GCY/wxRovio/blob/master/res/wxRovio%20Remote%20Control%20Demo.gif)
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/GCY/wxRovio/blob/master/res/wxRovio%20Remote%20Control%20Demo.gif">
+</p>
+
 ## wxRovio
 This is  cross platform GUI for WowWee Rovio control, Linux(Ubuntu) and Windows7.
 
