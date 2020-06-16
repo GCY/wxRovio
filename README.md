@@ -5,13 +5,11 @@ Rovio is a Wi-Fi enabled robot manufactured by WowWee which lets its user view w
 
 The Rovio uses a Killough platform for omnidirectional motion.
 
-![WowWee Rovio](https://github.com/GCY/wxRovio/blob/master/res/WowWee%20Rovio.jpg)
-
-![wxRovio Remote Control Demo](https://github.com/GCY/wxRovio/blob/master/res/wxRovio%20Remote%20Control%20Demo.gif)
-
 <p align="center">
-  <img width="460" height="300" src="https://github.com/GCY/wxRovio/blob/master/res/wxRovio%20Remote%20Control%20Demo.gif">
+  <img src="https://github.com/GCY/wxRovio/blob/master/res/wxRovio%20Remote%20Control%20Demo.gif">
 </p>
+
+![WowWee Rovio](https://github.com/GCY/wxRovio/blob/master/res/WowWee%20Rovio.jpg)
 
 ## wxRovio
 This is  cross platform GUI for WowWee Rovio control, Linux(Ubuntu) and Windows7.
