@@ -1,5 +1,12 @@
 wxRovio
 =======
+
+Rovio is a Wi-Fi enabled robot manufactured by WowWee which lets its user view what the robot's webcam sees from anywhere in the world. It can be accessed and controlled via an internet connection from any PC, Mac, Cell Phone, Smartphone, PDA or PSP.
+
+The Rovio uses a Killough platform for omnidirectional motion.
+
+![WowWee Rovio](https://github.com/GCY/wxRovio/blob/master/res/WowWee%20Rovio.jpg)
+
 1.Cross Platform - Linux And Windows
 
 2.Video - http://www.youtube.com/watch?feature=player_embedded&v=EUUJY8NPWs8
