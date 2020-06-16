@@ -7,7 +7,7 @@ The Rovio uses a Killough platform for omnidirectional motion.
 
 ![WowWee Rovio](https://github.com/GCY/wxRovio/blob/master/res/WowWee%20Rovio.jpg)
 
-![wxRovio Remote Control Demo](https://github.com/GCY/wxRovio/blob/master/res/wxRovio%20Remote%20Control%20Demo.gif);
+![wxRovio Remote Control Demo](https://github.com/GCY/wxRovio/blob/master/res/wxRovio%20Remote%20Control%20Demo.gif)
 
 ## wxRovio
 This is  cross platform GUI for WowWee Rovio control, Linux(Ubuntu) and Windows7.
@@ -17,6 +17,9 @@ This is  cross platform GUI for WowWee Rovio control, Linux(Ubuntu) and Windows7
 ![ubuntu](https://github.com/GCY/wxRovio/blob/master/res/wxRovio%20GUI%20Ubuntu.png)
 
 ![camera setting](https://github.com/GCY/wxRovio/blob/master/res/Rovio%20Camera%20Setting.png)
+
+## Use
+Include "wxRovio Library ver.0.1.0" folder into your project. 
 
 ### Remote control RTSP video demo 
 
